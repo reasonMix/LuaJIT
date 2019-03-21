@@ -9,3 +9,7 @@
 *.dmp
 *.swp
 .tags
+src/host/buildvm.dSYM
+src/host/minilua.dSYM
+src/libluajit.so.dSYM
+src/luajit.dSYM
